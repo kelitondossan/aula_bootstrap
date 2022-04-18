@@ -1,0 +1,42 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+.navbar{
+    background: rgba(5, 5, 5, 0.747);
+}
+#quemsomos{
+    
+    background: goldenrod;
+    color: white;
+}
+
+.margin{
+   
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: rgba(63, 63, 204, 0.555);
+    color: aliceblue;
+}
+
+#imagem3{
+    padding-bottom: 12px;
+}
+
+#imagemservico{
+    padding-top: 6px;
+}
+
+#servicos{
+    background-color:rgba(63, 204, 185, 0.363); 
+    color: rgba(145, 164, 182, 0.863);
+}
+.rodape{
+    background-color: rgba(119, 119, 146, 0.555);
+}
+.bg-footer{
+    background-color: black;
+    color: aliceblue;
+}
